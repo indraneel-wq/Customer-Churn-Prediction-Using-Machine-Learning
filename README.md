@@ -8,6 +8,11 @@ This application predicts customer churn based on metrics like tenure and monthl
 *   **Confidence Score**: Provides the probability of churn.
 *   **Simple Input**: Only requires `Tenure` (months) and `Monthly Charges` ($).
 
+## 📸 Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+*Interactive dashboard to predict customer churn risk.*
+
 ## 🚀 How to Run
 
 1.  **Clone the repository**:
